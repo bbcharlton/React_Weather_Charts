@@ -19,7 +19,7 @@ This loads in all the dependencies used in the application.
 
 > ### 3. Add your OpenWeatherMap key.
 
-Register an API key from (OpenWeatherMap)[http://openweathermap.org/appid] and add the key to line 3 in the **API_KEY** constant in `actions/index.js`.
+Register an API key from [OpenWeatherMap](http://openweathermap.org/appid) and add the key to line 3 in the **API_KEY** constant in `actions/index.js`.
 
 > ### 4. Run Server.
 
